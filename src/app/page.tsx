@@ -12,7 +12,7 @@ export default function Home() {
         className="text-6xl font-extrabold text-gray-900 mb-6"
       >
         👋 Hello! <br />
-        <span className="text-blue-600">MINEOK</span>&apos;s Portfolio
+        <span className="text-blue-600">MINSEOK</span>&apos;s Portfolio
       </motion.h1>
 
       <motion.p
